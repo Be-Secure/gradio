@@ -1,5 +1,12 @@
 # gradio
 
+## 3.45.0-beta.11
+
+### Features
+
+- [#5719](https://github.com/gradio-app/gradio/pull/5719) [`f7e154333`](https://github.com/gradio-app/gradio/commit/f7e154333b8ece96cc6492ff5b3da091168aaf27) - Better test dir check.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+- [#5715](https://github.com/gradio-app/gradio/pull/5715) [`9b3d55044`](https://github.com/gradio-app/gradio/commit/9b3d5504433ed19df8f588f7b85d82700fb98c08) - Fix python unit tests for v4.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+
 ## 3.45.0-beta.10
 
 ### Features

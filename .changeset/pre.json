@@ -59,6 +59,7 @@
     "@gradio/preview": "0.0.2"
   },
   "changesets": [
+    "afraid-cougars-rescue",
     "bright-planes-divide",
     "chatty-adults-reply",
     "chubby-hounds-itch",
@@ -77,6 +78,7 @@
     "lovely-news-speak",
     "lovely-radios-worry",
     "many-tips-create",
+    "plain-groups-win",
     "puny-papayas-bake",
     "purple-jokes-shake",
     "real-items-cover",
